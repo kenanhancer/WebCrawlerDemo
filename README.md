@@ -1,2 +1,0 @@
-# WebCrawlerDemo
-Created with CodeSandbox
