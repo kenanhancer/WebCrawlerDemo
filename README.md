@@ -1,22 +1,22 @@
 # WebCrawlerDemo
 
 ## Cloning project
-git clone https://github.com/kenanhancer/JestUnitTestExample1.git
+```git clone https://github.com/kenanhancer/JestUnitTestExample1.git```
 
 ## Prerequisite
-npm install
+```npm install```
 
 ## Running Unit Test
-npm test
+```npm test```
 
 ## Running App with arguments
-//with default arguments
-node app
-or
-node app --url 'http://kenanhancer.com'
-or
-node app --url 'http://kenanhancer.com' --nestedLimit 2
-or
-node app --url 'http://kenanhancer.com' --nestedLimit 2 --output xml
-or
-node app --url 'http://kenanhancer.com' --nestedLimit 2 --output text
+
+```node app```
+
+```node app --url 'http://kenanhancer.com'```
+
+```node app --url 'http://kenanhancer.com' --nestedLimit 2```
+
+```node app --url 'http://kenanhancer.com' --nestedLimit 2 --output xml```
+
+```node app --url 'http://kenanhancer.com' --nestedLimit 2 --output text```
