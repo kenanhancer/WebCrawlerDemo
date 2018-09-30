@@ -2,13 +2,15 @@
   "name": "easytallmatter",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "mocha"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "js2xmlparser": "^3.0.0",
+    "minimist": "^1.2.0",
     "request": "^2.88.0",
     "url-parse": "^1.4.3"
   },
